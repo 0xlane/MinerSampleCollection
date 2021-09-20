@@ -1,6 +1,6 @@
 # MinerSampleCollection
 
-- moneroocean
+1. moneroocean
     - Author: TeamTNT
     - Target: Linux(CentOS)
     - Persistence: rc.local, profile, docker, systemd
