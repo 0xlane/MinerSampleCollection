@@ -1,0 +1,12 @@
+
+teamtnt.red	45.9.148.108
+irc.chimaera.cc	45.9.148.182
+dl.chimaera.cc	45.9.148.182
+
+
+/tmp/.tntcurl 					F1B84BD70D2DD971B0EE1E07BC376402
+/root/.configures/xmrig 			4A23F29B27FBB9923ABD0ECC44F0077F
+./bioset 					1221631E5FD5628435B6DFEF15899FCE
+/root/.configures/config.json 			F1EC7D9A7A78B19F20E87FD195C30129
+/root/.configures/miner.sh 			CEB29A9E54A16745DB741B201E158CA9
+/root/.configures/config_background.json 	FF568D691D07E3C44C7F7FD4A1052EB2
