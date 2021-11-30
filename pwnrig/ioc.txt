@@ -1,0 +1,26 @@
+klan-rx0.pwndns.pw	198.199.127.168
+klan-rx0.pwndns.pw	2a03:b0c0:0:1010::1816:1001
+
+MD5 (cnrig) = 48e5ce77980d52c68a7bbfd091756036
+MD5 (crondr) = 81307cf42f12d47729825c901d9019fe
+MD5 (go) = 666a24d406bd04c1ad50975c54f1b19b
+MD5 (sh) = c06a4611896860976d448426a9e44da2
+MD5 (syst3md) = 0893ec5be269546137eec2682dfdfa8c
+MD5 (syst3mdaa) = 01161fe886f9ce76733397d429e784fa
+
+/bin/crondr 81307cf42f12d47729825c901d9019fe
+/bin/nginx  81307cf42f12d47729825c901d9019fe
+/bin/sysdr  81307cf42f12d47729825c901d9019fe
+/bin/initdr 81307cf42f12d47729825c901d9019fe
+/bin/bprofr 81307cf42f12d47729825c901d9019fe
+
+/usr/lib/systemd/system/pwnrigl.service
+/usr/lib/systemd/system/pwnrige.service
+/usr/lib/systemd/system/pwnrig.service
+
+/etc/rc.d/init.d/pwnrig
+/etc/cron.weekly/pwnrig
+/etc/cron.monthly/pwnrig
+/etc/cron.daily/pwnrig
+/etc/cron.hourly/pwnrig
+/etc/cron.d/pwnrig

@@ -1,0 +1,6 @@
+http://58.56.66.45:6530
+pool.supportxmr.com:5555
+
+MD5 (cython) = 97b3946c163d1cf31612f770898e249f
+MD5 (ravmond.exe) = 1e7ee3984be957fd64b8a7dd7dc5215c
+MD5 (zzd.sh) = f97bb8de3f67c76ef2876d2e861f74a7
