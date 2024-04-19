@@ -13,6 +13,7 @@
     - Entry: [zzd/zzd.sh](zzd/zzd.sh)
     - Persistence: unknown
     - Evasion: unknown
+    - Movement: unknown
     - Clean: nothing
 3. pwnrig
     - Author: unknown
@@ -20,4 +21,13 @@
     - Entry: unknown
     - Persistence: rc.d, bash_profile, systemd, cron
     - Evasion: upx
+    - Movement: unknown
     - Clean: [pwnrig/clean_miner.sh](pwnrig/clean_miner.sh)
+4. JSBot
+    - Author: unknown
+    - Target: Windows
+    - Entry: [JSBot/net.xsl](JSBot/net.xsl), [JSBot/networks.xsl](JSBot/networks.xsl)
+    - Persistence: ScheduledTask, WmiEventSubscription, AppInit_DLLs, Service, ProcessInjection
+    - Evasion: obfuscation, fileless, lolbin, encryption
+    - Movement: pth, ms17010
+    - Clean: nothing

